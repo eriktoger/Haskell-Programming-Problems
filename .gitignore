@@ -1,0 +1,4 @@
+.stack-work/
+*~
+Haskell-Programming-Problems.cabal
+package.yaml
